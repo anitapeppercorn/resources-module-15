@@ -50,5 +50,3 @@ You will be employer-competitive if you are able to:
 
 * [MVC Tutorial](https://www.guru99.com/mvc-tutorial.html)
 
----
-© 2020 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
